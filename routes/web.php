@@ -13,7 +13,11 @@ use App\Http\Controllers\ReviewController;
 use App\Http\Controllers\VideoHistoryController;
 use App\Http\Controllers\RankController;
 use App\Http\Controllers\VideosController;
-use App\Http\Controllers\StudentController;
+use App\Http\Controllers\StudentController;            
+
+
+
+
 use App\Http\Controllers\FaqController;
 use App\Http\Controllers\TeamController;
 use App\Http\Controllers\TransectionController;
