@@ -1,0 +1,8 @@
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW PWPROTECTID:TLuv8dYDlu
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile /home/u937771604/domains/skillsider.pk/public_html/resources/.htpasswd
+Require valid-user
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE TLuv8dYDlu:PWPROTECTID
+

@@ -1,0 +1,12 @@
+[11-Oct-2023 10:21:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Jetstream\Contracts\DeletesUsers" not found in /home/skillsid/skillsider.pk/app/Actions/Jetstream/DeleteUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Actions/Jetstream/DeleteUser.php on line 8
+[11-Oct-2023 10:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Jetstream\Contracts\DeletesUsers" not found in /home/skillsid/skillsider.pk/app/Actions/Jetstream/DeleteUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Actions/Jetstream/DeleteUser.php on line 8
+[24-Dec-2023 13:11:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Jetstream\Contracts\DeletesUsers" not found in /home/skillsid/skillsider.pk/app/Actions/Jetstream/DeleteUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Actions/Jetstream/DeleteUser.php on line 8

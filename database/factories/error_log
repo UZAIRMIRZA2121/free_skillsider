@@ -1,0 +1,24 @@
+[06-Oct-2023 11:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/skillsid/skillsider.pk/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/database/factories/UserFactory.php on line 11
+[06-Oct-2023 11:26:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/skillsid/skillsider.pk/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/database/factories/UserFactory.php on line 11
+[06-Oct-2023 11:26:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/skillsid/skillsider.pk/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/database/factories/UserFactory.php on line 11
+[06-Oct-2023 11:26:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/skillsid/skillsider.pk/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/database/factories/UserFactory.php on line 11
+[06-Oct-2023 18:38:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/skillsid/skillsider.pk/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/database/factories/UserFactory.php on line 11
+[07-Oct-2023 03:44:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/skillsid/skillsider.pk/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/database/factories/UserFactory.php on line 11

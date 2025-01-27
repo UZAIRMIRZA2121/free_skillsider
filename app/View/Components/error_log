@@ -1,0 +1,52 @@
+[07-Oct-2023 08:07:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[07-Oct-2023 09:25:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[07-Oct-2023 09:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[07-Oct-2023 18:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[08-Oct-2023 09:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/GuestLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/GuestLayout.php on line 8
+[08-Oct-2023 13:50:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[08-Oct-2023 15:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[08-Oct-2023 15:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[08-Oct-2023 15:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/GuestLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/GuestLayout.php on line 8
+[06-Dec-2023 05:53:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[06-Dec-2023 05:53:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/GuestLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/GuestLayout.php on line 8
+[06-Dec-2023 11:09:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8
+[24-Dec-2023 13:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/View/Components/AppLayout.php on line 8

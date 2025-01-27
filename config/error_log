@@ -1,0 +1,32 @@
+[08-Oct-2023 00:35:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/skillsid/skillsider.pk/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/config/database.php on line 18
+[15-Oct-2023 17:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/skillsid/skillsider.pk/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/config/view.php on line 17
+[18-Oct-2023 06:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/skillsid/skillsider.pk/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/config/view.php on line 17
+[22-Oct-2023 16:42:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/skillsid/skillsider.pk/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/config/view.php on line 17
+[26-Oct-2023 20:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/skillsid/skillsider.pk/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/config/view.php on line 17
+[26-Oct-2023 20:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/skillsid/skillsider.pk/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/config/view.php on line 17
+[06-Nov-2023 02:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/skillsid/skillsider.pk/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/config/app.php on line 18
+[30-Nov-2023 15:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/skillsid/skillsider.pk/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/config/app.php on line 18

@@ -1,0 +1,16 @@
+[06-Oct-2023 11:10:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/skillsid/skillsider.pk/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Providers/AuthServiceProvider.php on line 8
+[06-Oct-2023 11:10:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/skillsid/skillsider.pk/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Providers/AppServiceProvider.php on line 7
+[07-Oct-2023 12:27:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/skillsid/skillsider.pk/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Providers/AppServiceProvider.php on line 7
+[06-Dec-2023 11:09:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/skillsid/skillsider.pk/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Providers/AppServiceProvider.php on line 7

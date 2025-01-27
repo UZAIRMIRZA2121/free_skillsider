@@ -1,0 +1,48 @@
+[06-Oct-2023 04:28:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/Skillsider_payment_method.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/Skillsider_payment_method.php on line 8
+[06-Oct-2023 09:22:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/package_upgrade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/package_upgrade.php on line 8
+[06-Oct-2023 09:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/package_upgrade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/package_upgrade.php on line 8
+[06-Oct-2023 09:22:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/package_upgrade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/package_upgrade.php on line 8
+[07-Oct-2023 10:42:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/Earning.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/Earning.php on line 8
+[07-Oct-2023 16:42:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/Skillsider_payment_method.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/Skillsider_payment_method.php on line 8
+[07-Oct-2023 16:42:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/Skillsider_payment_method.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/Skillsider_payment_method.php on line 8
+[05-Dec-2023 12:10:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/skillsid/skillsider.pk/app/Models/User.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/User.php on line 14
+[05-Dec-2023 12:10:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/package_upgrade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/package_upgrade.php on line 8
+[05-Dec-2023 12:11:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/Coupon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/Coupon.php on line 8
+[05-Dec-2023 12:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/Coupon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/Coupon.php on line 8
+[05-Dec-2023 12:11:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/skillsid/skillsider.pk/app/Models/Coupon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/skillsid/skillsider.pk/app/Models/Coupon.php on line 8
